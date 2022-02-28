@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the General Councel of officers under the command of His Excellency Thomas Lord Fairfax, to the Right Honorable the Commons of England assembled in Parliament, for the total and universal taking away of free-quarter, and other burthens of the Common-wealth, and for the relief of Ireland. Together with the answer and several votes of the Parliament to the same. Also a list of all the officers at the General Councel when the petition was read and approved of. Signed by the appointment of the General Conncel [sic] of officers of the Army, John Rushworth, Sect'.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90588</idno>
+            <idno type="STC">Wing P1796</idno>
+            <idno type="STC">Thomason E545_30</idno>
+            <idno type="STC">ESTC R203145</idno>
+            <idno type="EEBO-CITATION">99863210</idno>
+            <idno type="PROQUEST">99863210</idno>
+            <idno type="VID">115399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115399)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E545[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the General Councel of officers under the command of His Excellency Thomas Lord Fairfax, to the Right Honorable the Commons of England assembled in Parliament, for the total and universal taking away of free-quarter, and other burthens of the Common-wealth, and for the relief of Ireland. Together with the answer and several votes of the Parliament to the same. Also a list of all the officers at the General Councel when the petition was read and approved of. Signed by the appointment of the General Conncel [sic] of officers of the Army, John Rushworth, Sect'.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Playford, and are to be sold at his shop in the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 3. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Commons' response is dated 2 March 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Soldiers --  Billeting --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115399:1"/>
+            <p>THE PETITION OF THE General Councel OF OFFICERS Under the Command of <hi>His Excellency Thomas Lord Fairfax,</hi> To the Right Honorable the <hi>COMMONS of ENGLAND</hi> aſſembled in PARLIAMENT, For the total and univerſal taking away of Free-Quarter, and other burthens of the Common-wealth, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd for the Relief of <hi>Ireland.</hi>
+            </p>
+            <p>Together with the ANSWER and ſeveral VOTES of the Parliament to the ſame.</p>
+            <p>Alſo a Liſt of all the Officers at the General Councel when the <hi>Petition</hi> was read and approved of.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>SIgned by the Appointment of the General Councel of Offi<g ref="char:EOLhyphen"/>cers of the Army,</p>
+                        <closer>
+                           <signed>JOHN RUSHWORTH, Sect'</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John. Playford,</hi> and are to be ſold at his ſhop in the <hi>Inner-Temple,</hi> March 3. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115399:2"/>
+            <pb n="3" facs="tcp:115399:2"/>
+            <opener>
+               <salute>Mr Speaker,</salute>
+            </opener>
+            <p>THe Petition herewith ſent, being unanimouſly agreed unto by the Councel of Officers of the Army un<g ref="char:EOLhyphen"/>der my Command, and finding the things therein to be juſt and neceſſary, in order to publike good, J thought fit (with my concurrence in it) to preſent it to you, deſiring you would take the particulars into a ſpeedy and effectual Conſiderati<g ref="char:EOLhyphen"/>on; J remain,</p>
+            <closer>
+               <signed>Your moſt humble Servant, Tho. Fairfax.</signed>
+               <dateline>Queen-ſtreet,<date>2. Mar. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>For the honorable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Right Honora<g ref="char:EOLhyphen"/>ble the Commons of <hi>England</hi> aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</trailer>
+         </div>
+         <div type="Parliamentary_petition">
+            <pb n="4" facs="tcp:115399:3"/>
+            <head>To the right honora<g ref="char:EOLhyphen"/>ble the Commons of England aſ<g ref="char:EOLhyphen"/>ſembled in Parliament;</head>
+            <head type="sub">The humble Petition of the General Councel of Officers of the Army under the Command of his Excellen<g ref="char:EOLhyphen"/>cy <hi>Thomas</hi> Lord <hi>Fairfax.</hi>
+            </head>
+            <p>HAving obſerved (with much ſatiſ<g ref="char:EOLhyphen"/>faction) how God hath deſpoſed your hearts to accompliſh divers things (of greateſt conſequence in reference to his glory and the publike good of this Na<g ref="char:EOLhyphen"/>tion) for which we have long waited; and that himſelf hath alſo owned you therein, which we do with all humility and thank<g ref="char:EOLhyphen"/>fulneſs acknowledg: And having had a due and ſerious regard to the greatneſs of thoſe
+<pb n="5" facs="tcp:115399:3"/>works you are now about, and a care alſo, leſt we might ſeem unthankful, or impatient, upon endeavors ſo conſtant and eminent; And being (indeed) moſt deſirous, that thoſe things which relate unto our ſelves (although very neerly) ſhould yet bring up the rear of our deſires to you: We have hitherto been very tender in re-minding you of any further par<g ref="char:EOLhyphen"/>ticulars in order to the Peace and Settlement of the Common-wealth, or Army, leſt by that means we ſhould either hinder or di<g ref="char:EOLhyphen"/>ſtract your Proceedings. But whileſt mat<g ref="char:EOLhyphen"/>ters of publike Juſtice and neer concernment to the Nation, have been put in execution by you, we conceived that we ſhould be much indebted to the duty we owe unto God, and our native Country, if we ſhould neglect the conſideration of ſome things (comparatively) more remote, yet of much concernment alſo: Now, as we humbly conceive thoſe things that are moſt neceſſary for the eaſing and removing the preſent bur<g ref="char:EOLhyphen"/>thens of the Common-wealth, and for the ſatisfaction of thoſe that have ſerved you
+<pb n="6" facs="tcp:115399:4"/>faithfully, are moſt properly, ſafely, and ſa<g ref="char:EOLhyphen"/>tisfactorily to be provided for by you, who are the ſupream Authority of the Nation; ſo we could not finde any way to avoyd the imputation which might juſtly be caſt upon us, if (by our neglect, and omiſſion of any things neceſſary for us to repreſent) any ill conſequence ſhould have followed; We therefore humbly offer theſe following par<g ref="char:EOLhyphen"/>ticulars to your ſerious conſideration.</p>
+            <list>
+               <item>1. That Free-Quarter may forthwith be totally and univerſally taken away.</item>
+               <item>2. That a ſpeedy and effectual proviſion may be made of conſtant pay for the Army (whileſt they are kept up,) whereby the Soldiery may be enabled to live upon their pay, and avoyd that peſt of Free-Quarter, which (without any other Enemy) muſt un<g ref="char:EOLhyphen"/>avoydably ruine the Common-wealth.</item>
+               <item>3. That all perſons, of what degree or quality ſoever, who have been employed in
+<pb n="7" facs="tcp:115399:4"/>publike Receipts of Mony, Plate, or Goods, and are any way chargeable and accomptable to the Common-wealth, may be brought to a ſpeedy and exact Accompt; and that per<g ref="char:EOLhyphen"/>ſons of known integrity and ability may be appointed for that purpoſe, which (we humble conceive) may be one expedient for the ends aforeſaid.</item>
+               <item>4. That the many great abuſes which the whole Nation, &amp; we in particular daily ſuffer by clipt mony, may be ſpeedily redreſſed, and that all thoſe who make it the practiſe to buy up ſuch mony underhand, and then put it off at the full value, may be brought to ex<g ref="char:EOLhyphen"/>emplary puniſhment.</item>
+               <item>5. That the Accompts of all the Officers and Soldiers, who faithfully ſerved, and con<g ref="char:EOLhyphen"/>ſtantly adhered to the Common-wealth in this or any other Army, County and Garri<g ref="char:EOLhyphen"/>ſon, ſince the beginning of this War, may be ſpeedily ſtated, and Debenters given out, which Debenters we deſire may be as fully
+<pb n="8" facs="tcp:115399:5"/>allowed of as the mony which hath been lent upon the Publike Eaith of the Nation.</item>
+               <item>6. That theſe Accompts ſo ſtated, viſi<g ref="char:EOLhyphen"/>ble ſecurity may be given out of Deans and Chapters Lands, or otherways, wherein we refer the way, time and place of payment to be limited and aſcertained by you, and that the Officer or Soldier may not be prejudiced by deſtructive delays and attendance, ſo that the mony due may not ſatisfie the expences and loſs he may be at in procuring the ſame.</item>
+               <item>7. That whereas divers Soldiers have (through extraordinary Duty and Service) loſt and ſpoiled their horſes, ſome courſe may be taken for the ſatisfaction of all ſuch whoſe horſes were ſlain in the field, or taken in fight in the laſt Summers War upon due proof thereof, and that ſatisfaction hath not been already made, and that future proviſi<g ref="char:EOLhyphen"/>on be made for ſuch horſes as ſhall be ſo loſt in the Service of the Common-wealth.</item>
+               <item>
+                  <pb n="9" facs="tcp:115399:5"/>
+8. That ſome effectual courſe may be taken for a juſt &amp; ſutable ſupply to maimed ſouldi<g ref="char:EOLhyphen"/>ers, &amp; the widdowes of ſuch as have been ſlaine in the ſervice of the Parliament. To which end we humbly propoſe, that the Rents and Revenues of SUTTONS Hoſpitall, and other donations for the like good and charitable uſes may be examined and regu<g ref="char:EOLhyphen"/>lated, and the full improved value may be diſpoſed of to the ends aforeſaid; which we the rather urge, becauſe thoſe Rents have been conſtantly freed from Taxes and Aſ<g ref="char:EOLhyphen"/>ſeſſements, and yet have (by the corruption of the Officers) been abuſed, and not diſ<g ref="char:EOLhyphen"/>poſed of according to the will and intent of the Donors.</item>
+               <item>9. That the ſad and diſtreſſed condition of our Brethren in Ireland, may be imme<g ref="char:EOLhyphen"/>diately conſidered, and (ere it be too late) ſuch ſeaſonable ſupplies ſent thither as may regain the Engliſh honor and intereſt, for which work we humbly offer, and earneſt<g ref="char:EOLhyphen"/>ly deſire, that ſuch Forces as are already rai<g ref="char:EOLhyphen"/>ſed
+<pb n="8" facs="tcp:115399:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:115399:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:115399:7"/>and can be ſpared, which we conceive will be, with ſome little addition, a conſi<g ref="char:EOLhyphen"/>derable ſtrength, may be forthwith appoin<g ref="char:EOLhyphen"/>ted for that ſervice, with ſuch equall proviſion for maintenance, as the For<g ref="char:EOLhyphen"/>ces here ſhall have provided, and under ſuch Conduct and conditions as may in<g ref="char:EOLhyphen"/>courage faithfull men for that imploy<g ref="char:EOLhyphen"/>ment, by which meanes you will pro<g ref="char:EOLhyphen"/>bably in a great meaſure ſecure this Na<g ref="char:EOLhyphen"/>tion, in part eaſe the people of their preſſures, and, by the bleſsing of God, recover that Kingdome out of the hands of the Rebells.</item>
+               <item>10. That divers Gentlemen, Officers, who for their conſtant fidelity to the pub<g ref="char:EOLhyphen"/>like intereſt ſuffered long impriſonment, loſſe of great eſtates, and places, and were ejected out of their commands in Ireland by the perfidious INCHIQUIN, and are thereby now reduced to miſerable ex<g ref="char:EOLhyphen"/>tremities, may have their pinching neceſ<g ref="char:EOLhyphen"/>ſities
+<pb n="11" facs="tcp:115399:7"/>immediately relieved, leaſt they pe<g ref="char:EOLhyphen"/>riſh for want of bread, which if ſo, would tend to the great diſhonour of the Par<g ref="char:EOLhyphen"/>liament: The faithfulneſſe and worth of theſe Gentlemen deſerves a ſpeciall eye of regard, and recommends them as moſt fit perſons for further imployment in the ſervice of that Kingdome, be<g ref="char:EOLhyphen"/>cauſe of their experience in that War.</item>
+            </list>
+            <p>
+               <hi>All which particulars being of ſo immediate concernment to the publike, we humbly lay before you, with aſſurance of a timely and effectuall accompliſh<g ref="char:EOLhyphen"/>ment of them, and whatſoever elſe you in your wiſdomes ſhall find neceſſary for the ſafety and ſettlement of the Commonwealth.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>March 1. 1648.</date>
+               </dateline>
+               <signed>Signed by the appointment of the ſaid Coun<g ref="char:EOLhyphen"/>cell of Officers, <hi>Joh. Ruſhworth</hi> Secr.</signed>
+            </closer>
+         </div>
+         <div type="list_of_officers">
+            <pb n="12" facs="tcp:115399:8"/>
+            <head>Preſent at the generall Councell of Of<g ref="char:EOLhyphen"/>ficers held at White-Hall, when this Petition was read and approved of, <date>March 1. 1648.</date>
+            </head>
+            <list>
+               <head>The Lord Generall <hi>Fairfax.</hi>
+               </head>
+               <item>Sir Hardreſſe Waller.</item>
+               <item>Col. Whalley.</item>
+               <item>Col. Hewſon.</item>
+               <item>Col. Barkſtead.</item>
+               <item>Col. Twiſtleton.</item>
+               <item>Col. Okey.</item>
+               <item>Col. Desborough.</item>
+               <item>Col. Horton.</item>
+               <item>Col. Reynolds.</item>
+               <item>Col. Goffe.</item>
+               <item>Col. George Twiſtleton.</item>
+               <item>Lievt. Col. Venables.</item>
+               <item>Lievt. Col. Bowen.</item>
+               <item>Lievt. Col. Cobbet.</item>
+               <item>Major Blackmore.</item>
+               <item>Major Swallow.</item>
+               <item>Major Barton.</item>
+               <item>Major Browne.</item>
+               <item>Major Coleman.</item>
+               <item>Major White.</item>
+               <item>Major Haynes.</item>
+               <item>Major Berry.</item>
+               <item>Major Audley.</item>
+               <item>Major Creed.</item>
+               <item>Major Diſney.</item>
+               <item>Capt. Browne.</item>
+               <item>Capt. Pretty.</item>
+               <item>Capt. Wolfe.</item>
+               <item>Capt. Drury.</item>
+               <item>Capt. White.</item>
+               <item>Capt. Penyfather.</item>
+               <item>Capt. Diſher.</item>
+               <item>Capt. Winthorpe.</item>
+               <item>Capt. Meſſervey.</item>
+               <item>Capt. Smith.</item>
+               <item>Capt. Barrow.</item>
+               <item>Capt. Goddard.</item>
+               <item>Capt. Affirm.</item>
+               <item>Capt. Clark.</item>
+               <item>
+                  <pb n="13" facs="tcp:115399:8"/>
+Capt. Scotten.</item>
+               <item>Capt Billers.</item>
+               <item>Capt. Lawrence.</item>
+               <item>Capt. Banes.</item>
+               <item>Capt. Percivall.</item>
+               <item>Lievtenant Chillenden.</item>
+               <item>Lievt. Newman.</item>
+               <item>Lievt. Lloyd.</item>
+               <item>Lievt. Frank.</item>
+               <item>Lievt. Southwell.</item>
+               <item>Lievt. Deane.</item>
+               <item>Lievt. Byfield.</item>
+               <item>Lievt. Comes.</item>
+               <item>Lievt. Owen.</item>
+               <item>Cornet Wallis.</item>
+               <item>Cornet Tracy.</item>
+               <item>Cornet Lewis.</item>
+               <item>Cornet Lockyer.</item>
+               <item>Cornet Thompſon.</item>
+               <item>Cornet Melling.</item>
+               <item>Enſigne Gravey.</item>
+               <item>Quartermaſter Emerſon.</item>
+               <item>Quartermaſter Cooke.</item>
+               <item>Quartermaſter Antrobus.</item>
+               <item>Quartermaſter Salter.</item>
+               <item>Quartermaſter Whiting.</item>
+            </list>
+         </div>
+         <div type="Parliamentary_resolution">
+            <pb n="14" facs="tcp:115399:9"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris 2. Martii 2648.</date>
+               </dateline>
+            </opener>
+            <p>THe Houſe being informed, that there were di<g ref="char:EOLhyphen"/>vers Officers of the Army at the doore, they were called in, and Colonell <hi>Whalley</hi> told Mr. Spea<g ref="char:EOLhyphen"/>ker, that the Generall Councell of the Officers of the Army had ſent theſe Gentlemen and himſelfe to preſent the Houſe with this <hi>Petition,</hi> which the Generall had likewiſe recommended by his Letter; &amp; that it is their deſire, that the Houſe would take it into their ſerious, effectual and ſpeedy conſideration.</p>
+            <p>The Petitioners being withdrawn, the Letter from the Generall dated 2. <hi>Martii</hi> 1648. and the ſaid Pe<g ref="char:EOLhyphen"/>tition were read.</p>
+            <p>
+               <hi>Reſolved upon the Queſtion by the Commons aſſembled in Parliament,</hi> that the matters contained in the ſaid Petition preſented from the Generall Councell of the Officers of the Army, be taken into immediate conſideration.</p>
+            <p>Reſolved, &amp;c. That Mr. Speaker do returne thanks to the Petitioners.</p>
+            <p>The Petitioners being againe called in, Mr. Spea<g ref="char:EOLhyphen"/>ker gave them this Anſwer.</p>
+            <p>Gentlemen, The Houſe hath read the Letter of the Generall, and your Petition, and looked over every part of it: I muſt needs ſay (and you would wonder at it I ſhould tell you ſo) This day will be a day of much diſcontent, I mean to all the common
+<pb n="15" facs="tcp:115399:9"/>Enemies of you and us: But as to all good men that have engaged to carry on the good of the Kingdome with us, it will be a great rejoycing and ſatisfaction by this your modeſt and diſcreet Petition; and as in your ſelves it ſhewes your moderation, ſo all thoſe whoſe mouths are open to malice and detraction, will ſee that both the Army and Parliament are ſo unanimous in promoting the publique good. The things themſelves they conſider as matters of great concernment, and intend, and have reſolved to take them into immediate conſideration.</p>
+            <p>And as you have ſhewed your ſelves in former ſervices (for all that you and we do is but ſervice) forward and faithfull, ſo for theſe your diſcreet and and ſerious Repreſentations, they have commanded me to returne you the heartieſt thanks I can; and accordingly I do give you the hearty thanks of this Houſe, and deſire you likewiſe to returne the like hearty thanks from this Houſe to the Generall, and to the whole Generall Councell of the Army.</p>
+            <closer>
+               <signed>Hen. Scobell Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
